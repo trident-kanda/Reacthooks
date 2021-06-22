@@ -1,5 +1,5 @@
-Next-Preset
+ReactHooks
 
-- Next
-- Tailwind
-- TypeScript
+useState
+useEffect
+useContext
