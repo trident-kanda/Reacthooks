@@ -18,6 +18,9 @@ export default function Home() {
         <li>
           <Link href="/callback">callback</Link>
         </li>
+        <li>
+          <Link href="/memo">memo</Link>
+        </li>
       </ul>
     </div>
   );
