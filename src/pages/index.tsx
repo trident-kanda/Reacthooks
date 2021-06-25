@@ -21,6 +21,9 @@ export default function Home() {
         <li>
           <Link href="/memo">memo</Link>
         </li>
+        <li>
+          <Link href="/ref">ref</Link>
+        </li>
       </ul>
     </div>
   );
